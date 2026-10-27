@@ -1,0 +1,13 @@
+package com.example.health_insurance_claim_management;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class HealthInsuranceClaimManagementApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(HealthInsuranceClaimManagementApplication.class, args);
+	}
+
+}
